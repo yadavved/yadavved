@@ -1,13 +1,13 @@
 ## Hey 👋, I'm [Ved Yadav!](https://github.com/dev-phoneapp/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dev-phoneapp.dev-phoneapp&style=flat-square&color=0088cc)
+### I hope you're having a wonderful day! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dev-phoneapp.dev-phoneapp&style=flat-square&color=0088cc)
 
 I'm currently into Application Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/yadavved/yadavved/blob/master/pagal_coder.gif" />
 
-### Talking about Personal Stuffs:
+### Talking about My Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Java, Kotlin, Python <br /> Graphql, etc.
 - 🚀 &nbsp; I’m currently learning Android Application Development.
