@@ -8,13 +8,14 @@ I'm currently into Application Development 🕸️ and working on my Data Struct
 
 ## My Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Java, Kotlin, Python <br /> Graphql, etc.
+- 🛠 &nbsp; I’m currently working with Java, Kotlin, Graphl.
 - 🚀 &nbsp; I’m currently learning Android Application Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dev-phoneapp).
 - 👾 &nbsp; Fun fact: Kotlin eats Ternary operator
 
 
-
+<br /> 
+<br /> 
 
 ## Quick overview
 * GitHub stats:  
