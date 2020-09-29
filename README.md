@@ -5,7 +5,7 @@
 I'm currently into Application Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 
-<img align="right" height="200" width="320" alt="" src="https://github.com/yadavved/yadavved/blob/master/pagal_coder.gif" />
+<img align="right" height="200" width="320" alt="" src="https://github.com/yadavved/yadavved/blob/master/run.gif" />
 
 ## My Stuffs:
 
