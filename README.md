@@ -5,14 +5,26 @@
 I'm currently into Application Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/yadavved/yadavved/blob/master/pagal_coder.gif" />
+<img align="right" height="200" width="320" alt="" src="https://github.com/yadavved/yadavved/blob/master/pagal_coder.gif" />
 
-### Talking about My Stuffs:
+## My Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Java, Kotlin, Python <br /> Graphql, etc.
 - 🚀 &nbsp; I’m currently learning Android Application Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dev-phoneapp).
 - 👾 &nbsp; Fun fact: Kotlin eats Ternary operator
+
+
+
+
+## Quick overview
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavved&langs_count=8" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yadavved&show_icons=true&line_height=27" alt="My github stats" />
+</a>
 
 ### Languages and Tools:
 
