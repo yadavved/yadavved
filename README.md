@@ -4,7 +4,9 @@
 
 I'm currently into Application Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-<img align="right" height="200" width="320" alt="" src="https://github.com/yadavved/yadavved/blob/master/run.gif" />
+<br />
+
+<img align="right" height="240" width="360" alt="" src="https://github.com/yadavved/yadavved/blob/master/run.gif" />
 
 ## My Stuffs:
 
@@ -26,7 +28,9 @@ I'm currently into Application Development 🕸️ and working on my Data Struct
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yadavved&show_icons=true&line_height=27" alt="My github stats" />
 </a>
 
-### Languages and Tools:
+<br />
+
+## Languages and Tools:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin"></code>
